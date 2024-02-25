@@ -5,7 +5,7 @@ public class statickeyword {
   static int a = 7;
   //static method
    static void print() {
-	  System.out.println("welcome");
+	  System.out.println("welcome to coding ");
    }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
