@@ -2,7 +2,7 @@ package corejava;
     class A {
     	String name = "sunil";
     	void display() {
-    		System.out.println("this super class");
+    		System.out.println("this was super class");
     	}
     }
     class B extends A {
