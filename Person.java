@@ -9,6 +9,6 @@ public class Person {
         }
 	public static void main(String[] args) {
 	    Person p1 = new Person() ;
-	    p1.display(5,6);
+	    p1.display(53,6);
 	}
 }

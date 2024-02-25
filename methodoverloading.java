@@ -2,8 +2,8 @@ package corejava;
 
 public class methodoverloading {
               int addition(int a , int b) {
-            	  int x=a;
-            	  int y = b;
+            	  this.a=a;
+            	  this. b = b;
             	  return a+b;
               }
               double addition(int a, double b) {
